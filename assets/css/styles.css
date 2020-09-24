@@ -46,10 +46,8 @@ body{
     overflow-y: hidden;
 }
 iframe{
-    overflow: hidden;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    overflow-y: hidden;
 }
 .footer{
     width: auto;
