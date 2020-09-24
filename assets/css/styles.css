@@ -42,8 +42,6 @@ body{
     margin: auto;
     margin-bottom: 1vh;
     box-sizing: content-box; 
-    overflow: hidden;
-    overflow-y: hidden;
 }
 iframe{
     border-top-left-radius: 5px;
