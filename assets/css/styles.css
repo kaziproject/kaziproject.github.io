@@ -54,7 +54,7 @@ iframe{
 .footer{
     width: auto;
     background-color: rgb(89, 101, 110);
-    min-height: 20vh;
+    min-height: 4vh;
 }
 .footer-disclaimer{
     color: #FFF;
